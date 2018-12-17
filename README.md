@@ -12,25 +12,3 @@ The program is designed to introduce a new password policy to the Linux operatin
 
 
 
-
-
-
-	|--bin (directory)
-	|    |--Makefile
-	|    |--passwdplus
-	|    |--passwdplus.cpp
-	|
-	|--ref(directory)
-	|    |--extractor
-	|    |--extractor.cpp
-	|
-	|--Makefile
-	|--userpwplus.c
-	|--passwdplus.h
-	|--manual.txt
-	|--man.h
-  
-  
-  
-
-
