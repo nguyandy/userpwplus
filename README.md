@@ -3,9 +3,6 @@
 Enforcing a Stronger Password Policy in Linux
 
 The program is designed to introduce a new password policy to the Linux operating system via a loadable kernel module. 	      
-The program also introduces a manual page that is a guide to the installed module.
-
-
 
 
 - The user-level application was designed using the C++ language
@@ -16,5 +13,24 @@ The program also introduces a manual page that is a guide to the installed modul
 
 
 
+
+
+	|--bin (directory)
+	|    |--Makefile
+	|    |--passwdplus
+	|    |--passwdplus.cpp
+	|
+	|--ref(directory)
+	|    |--extractor
+	|    |--extractor.cpp
+	|
+	|--Makefile
+	|--userpwplus.c
+	|--passwdplus.h
+	|--manual.txt
+	|--man.h
+  
+  
+  
 
 
